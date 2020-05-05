@@ -13,15 +13,39 @@ Macos cihazlarda toplu uygulama kurulumu için brew paket yöneticisinin kurulum
 ## Macos tarafında uygulama kurulumları için aşağıdaki komutu kullanabiliriz.
 
 
-```brew cask install microsoft-office```
-```brew cask install google-ads-editor```
-```brew cask install firefox```
-```brew cask install slack```
-```brew cask install google-chrome```
-```brew cask install forticlient```
-```brew cask install the-unarchiver```
-```brew cask install anydesk```
-```brew cask install whatsapp```
-```brew cask install screaming-frog-seo-spider```
-```brew cask install termius```
-```brew cask install spotify```
+```bash
+brew cask install microsoft-office
+```
+```bash
+brew cask install google-ads-editor
+```
+```bash
+brew cask install firefox
+```
+```bash
+brew cask install slack
+```
+```bash
+brew cask install google-chrome
+```
+```bash
+brew cask install forticlient
+```
+```bash
+brew cask install the-unarchiver
+```
+```bash
+brew cask install anydesk
+```
+```bash
+brew cask install whatsapp
+```
+```bash
+brew cask install screaming-frog-seo-spider
+```
+```bash
+brew cask install termius
+```
+```bash
+brew cask install spotify
+```
